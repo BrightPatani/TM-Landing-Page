@@ -111,6 +111,7 @@ input::placeholder {
 .hero-container {
     display: flex;
     max-width: 70%;
+    padding-top: 85px;
     margin: 28px auto;
     align-items: center;
     justify-content: center;
