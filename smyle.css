@@ -111,7 +111,7 @@ input::placeholder {
 .hero-container {
     display: flex;
     max-width: 70%;
-    padding-top: 85px;
+    padding-top: 135px;
     margin: 28px auto;
     align-items: center;
     justify-content: center;
@@ -182,11 +182,16 @@ button {
     cursor: pointer;
     font-size: 16px; 
 } 
+
 .productimg {
     display: flex;
     max-width: 700px;
     margin: 0 auto;
     padding: 0;
+}
+
+.productimg img {
+    padding-top: 45px;
 }
 
 /* our program section */
@@ -212,7 +217,7 @@ button {
 .pborder {
     margin: 0 auto;
     border: 3px solid #FFFBFB;
-    width: 160px;
+    width: 190px;
     height: 40px;
 }
 
@@ -456,6 +461,7 @@ time {
 .contact h2 {
     text-align: center;
     padding-bottom: 10px;
+    color: #3C455C;
 }
 
 .contact-grid {
@@ -707,9 +713,9 @@ hr {
 .overlay {
     position: absolute;
     top: 0;
-    left: 233px;
+    left: 224px;
     width: 1052px;
-    height: 700px;
+    height: 783px;
     background: #00498F80;
 }
 
@@ -799,9 +805,9 @@ ol {
 .overlay2 {
     position: absolute;
     top: 0;
-    left: 236px;
+    left: 227px;
     width: 1046px;
-    height: 700px;
+    height: 781px;
     background: #070D2380;
 }
 
@@ -905,6 +911,7 @@ ol {
         width: 80%;
         margin: 0 auto;
     }
+
 
     .program-container, .program-text {
         max-width: 90%;
@@ -1286,6 +1293,7 @@ ol {
         line-height: 0.3;
         color: #3C455C;
     }
+
     .quote {
         position: absolute;
         top: 67%;
@@ -1317,6 +1325,7 @@ ol {
         color: #ffffff;
         width: 156px;
     }
+
     .form-contact {
         padding: 0px;
         width: 100%;
