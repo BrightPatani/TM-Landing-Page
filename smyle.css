@@ -713,9 +713,9 @@ hr {
 .overlay {
     position: absolute;
     top: 0;
-    left: 224px;
-    width: 1052px;
-    height: 783px;
+    left: 226px;
+    width: 899px;
+    height: 684px;
     background: #00498F80;
 }
 
@@ -750,7 +750,7 @@ ol {
 
 
 .banners img {
-    width: 986px;
+    width: 900px;
     max-height: 657px;
     height: auto;
 }
@@ -955,9 +955,9 @@ ol {
 
     .top-blog1 {
         width: 254px;
-        height: 141px;
+        height: 142px;
         position: absolute;
-        left: 212px;
+        left: 214px;
     }
 
     .bottom-blog1 {
@@ -1141,16 +1141,16 @@ ol {
 
     .overlay2 {
         position: absolute;
-        top: 84px;
-        left: 0px;
-        width: 375px;
-        height: 240px;
+        top: 0;
+        left: 200px;
+        width: 950px;
+        height: 716px;
         background: #070D2380;
     }
 
     .text2 {
         position: absolute;
-        top: 54%;
+        top: 46%;
         left: 38%;
         transform: translate(-52%, -50%);
         text-align: left;
