@@ -797,7 +797,7 @@ ol {
 }
 
 .banner2 img {
-    width: 1050px;
+    width: 859px;
     max-height: 700px;
     height: auto;
 }
@@ -805,16 +805,17 @@ ol {
 .overlay2 {
     position: absolute;
     top: 0;
-    left: 227px;
-    width: 1046px;
-    height: 781px;
+    left: 254px;
+    width: 858px;
+    height: 657px;
     background: #070D2380;
 }
 
+
 .text2 {
     position: absolute;
-    top: 37%;
-    left: 38%;
+    top: 45%;
+    left: 40%;
     transform: translate(-52%, -50%);
     text-align: left;
     font-size: 43px;
