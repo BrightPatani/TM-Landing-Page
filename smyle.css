@@ -965,6 +965,12 @@ ol {
         left: 214px;
     }
 
+    .top-blog1 {
+        width: 254px;
+        height: 142px;
+        position: absolute;
+        left: 129px;
+    }
     .bottom-blog1 {
         width: 96px;
         position: relative;
@@ -990,11 +996,25 @@ ol {
         left: 136px;
     }
 
+    .bottom-blog2 {
+        width: 101px;
+        position: relative;
+        bottom: 34px;
+        left: 210px;
+    }
+
     .top-blog2 {
         width: 254px;
         height: 142px;
         position: absolute;
         right: 240px;
+    }
+
+    .top-blog2 {
+        width: 254px;
+        height: 142px;
+        position: absolute;
+        right: 152px;
     }
 
     .testimonial-text, .testimonial-texts {
@@ -1315,6 +1335,13 @@ ol {
         color: #3C455C;
     }
 
+    .bottom-blog2 {
+        width: 101px;
+        position: relative;
+        bottom: 34px;
+        left: 136px;
+    }
+    
     .text2 {
         position: absolute;
         top: 54%;
