@@ -1010,7 +1010,7 @@ ol {
     }
 
     .contact-container {
-        max-width: 100%;
+        max-width: 93%;
         flex-direction: column;
         text-align: center;
     }
@@ -1020,14 +1020,6 @@ ol {
         margin-bottom: 20px;
     }
 
-
-    .form-contact {
-        padding: 18px;
-        width: 78%;
-        margin: -972px auto;
-    }
-
-  
 
     form input[type="checkbox"] {
         margin: 10px auto;
@@ -1043,9 +1035,10 @@ ol {
     }
 
     .form-contact {
-        padding: 22px;
+        padding: 41px;
         width: 90%;
-        margin: -501px auto;
+        padding-left: 55px;
+        margin: -664px auto;
     }
 
     form input {
