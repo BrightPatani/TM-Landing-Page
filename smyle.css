@@ -324,7 +324,7 @@ hr {
     font-weight: bold; 
     color: #FF620A;
     display: inline-flex; 
-    margin-left: 83%;
+    margin-left: 79%;
   }
   
   .arrow {
@@ -364,7 +364,7 @@ hr {
     width: 254px;
     height: 142px;
     position: absolute;
-    right: 271px;
+    right: 247px;
 }
 
 .article2 {
@@ -955,9 +955,9 @@ ol {
 
     .top-blog1 {
         width: 254px;
-        height: 142px;
+        height: 141px;
         position: absolute;
-        left: 246px;
+        left: 212px;
     }
 
     .bottom-blog1 {
